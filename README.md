@@ -3,17 +3,17 @@ http://biplob.me.pn
 
 
 ## Screen 1
-![Screen1](https://raw.githubusercontent.com/biplobice/MySite-V1/master/screenshots/screen-1.png)
+![Screen1](https://raw.githubusercontent.com/biplobice/MySite-V2/master/screenshots/screen-1.png)
 
 
 ## Screen 2
-![Screen2](https://raw.githubusercontent.com/biplobice/MySite-V1/master/screenshots/screen-2.png)
+![Screen2](https://raw.githubusercontent.com/biplobice/MySite-V2/master/screenshots/screen-2.png)
 
 
 ## Screen 3
-![Screen3](https://raw.githubusercontent.com/biplobice/MySite-V1/master/screenshots/screen-3.png)
+![Screen3](https://raw.githubusercontent.com/biplobice/MySite-V2/master/screenshots/screen-3.png)
 
 
 ## Screen 4
-![Screen4](https://raw.githubusercontent.com/biplobice/MySite-V1/master/screenshots/screen-4.png)
+![Screen4](https://raw.githubusercontent.com/biplobice/MySite-V2/master/screenshots/screen-4.png)
 
